@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="11161" started-at="2021-09-02T17:19:59 PDT" finished-at="2021-09-02T17:20:10 PDT">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="11161" started-at="2021-09-02T17:19:59 PDT" finished-at="2021-09-02T17:20:10 PDT">
+      <class name="test.AddCategoryTest">
+        <test-method status="PASS" signature="userShould_Be_AbleToAddCategory()[pri:0, instance:test.AddCategoryTest@27a8c74e]" name="userShould_Be_AbleToAddCategory" duration-ms="11094" started-at="2021-09-02T17:19:59 PDT" finished-at="2021-09-02T17:20:10 PDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- userShould_Be_AbleToAddCategory -->
+      </class> <!-- test.AddCategoryTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
